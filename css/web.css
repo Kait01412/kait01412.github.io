@@ -1,0 +1,42 @@
+@charset "utf-8";
+
+#home{
+    color:deeppink;
+}
+
+.game1{
+    background-color:beige;
+    width: 80%;
+}
+
+.game2{
+    background-color:antiquewhite;
+    width: 80%;
+}
+
+.game3{
+    background-color:cornflowerblue;
+}
+
+#right{
+    text-align: right;
+}
+
+div{
+    width: 80%;
+}
+
+p{
+    width: 70%;
+}
+
+
+
+//　後で　リンク先　黒
+/*a:link{*/
+    color: blue;
+}
+
+/*a:visited{*/
+    color:black;
+}
